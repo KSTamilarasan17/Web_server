@@ -30,6 +30,7 @@ Testing the webserver
 # PROGRAM:
 Type your code here
 # OUTPUT:
+![webserver](https://github.com/KSTamilarasan17/Web_server/assets/138849236/b565e748-2bcd-4944-a071-8d6742d3a59a)
 
 # RESULT:
 
